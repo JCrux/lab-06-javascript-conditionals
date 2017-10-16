@@ -7,6 +7,7 @@
 <script>
 
 This is lab06
+Its about Javascript conditionals.
 
 </script>
 
